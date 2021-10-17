@@ -1,0 +1,11 @@
+
+1	CSK	Jadeja	         190
+1	CSK	Dhoni	         250
+1	CSK	Faf	         300
+2	MI	Hardhik	         100
+2	MI	Rohit	         200
+3	RCB	Padikal	         120
+3	RCB	Kolhi	         200
+3	RCB	ADB	         290
+4	SRH	Warner	         200
+4	SRH	Willamson	         230

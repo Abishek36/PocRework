@@ -1,0 +1,10 @@
+1	CSK	Dhoni
+2	MI	Rohit
+1	CSK	Jadeja
+3	RCB	Kolhi
+2	MI	Hardhik
+3	RCB	ADB
+4	SRH	Warner
+1	CSK	Faf	
+4	SRH	Willamson	
+3	RCB	Padikal
